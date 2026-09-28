@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -m "의미 있는 커밋 메세지"
+
